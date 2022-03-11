@@ -1,4 +1,4 @@
-# projeto-responsive-curso-web
+# Projeto Responsive
 ![projResp-print](https://user-images.githubusercontent.com/93951962/157933127-e74c776e-c7d0-464f-b8d2-8c7faaf279d4.png)
 ![projResp-print2](https://user-images.githubusercontent.com/93951962/157933135-a9b6df30-96e4-46b5-aaa8-aaecb32f397e.png)
 
